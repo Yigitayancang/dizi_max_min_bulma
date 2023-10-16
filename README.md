@@ -1,0 +1,1 @@
+# dizi_max_min_bulma
